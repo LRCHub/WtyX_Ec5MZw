@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Novacane",
+  "base_artist": "Frank Ocean",
+  "createdAt": "2026-03-30T14:58:06.465786Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Novacane",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/01_Novacane_Beck.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Novacane",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/02_Novacane_Beck.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Novacane",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/03_Novacane_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Novacane",
+      "artist": "Lil Wayne feat. Kevin Rudolf",
+      "has_synced": true,
+      "path": "select/04_Novacane_Lil_Wayne_feat._Kevin_Rudolf.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Novacane (Feat. Kevin Rudolf)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/05_Novacane_(Feat._Kevin_Rudolf)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Novacane",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/06_Novacane_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Novacane - Edited Version",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/07_Novacane_-_Edited_Version_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Novacane (Edited Version)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/08_Novacane_(Edited_Version)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Novacane (Explicit Version)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/09_Novacane_(Explicit_Version)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Novacane",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/10_Novacane_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Novacane",
+      "artist": "Lil Wayne feat. Kevin Rudolf",
+      "has_synced": true,
+      "path": "select/11_Novacane_Lil_Wayne_feat._Kevin_Rudolf.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Novacane (Album Version)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/12_Novacane_(Album_Version)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Novacane",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/13_Novacane_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Novacane (feat. Kevin Rudolf)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/14_Novacane_(feat._Kevin_Rudolf)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Novacane",
+      "artist": "Shiloh Dynasty",
+      "has_synced": false,
+      "path": "select/15_Novacane_Shiloh_Dynasty.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Novacane",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/pl_01_Novacane_Frank_Ocean.txt"
+    }
+  ]
+}
