@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Novacane",
   "base_artist": "Frank Ocean",
-  "createdAt": "2026-03-30T14:59:09.741838Z",
+  "createdAt": "2026-04-05T04:56:45.934034Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "Frank Ocean",
       "has_synced": false,
       "path": "select/pl_01_Novacane_Frank_Ocean.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Novacane",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/localdb_01_Novacane_Frank_Ocean.lrc",
+      "repo_name": "WtyX_Ec5MZw"
     }
   ]
 }
